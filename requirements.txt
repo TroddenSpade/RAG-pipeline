@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain_core
+langchain-chroma
+# langchain_ollama
+langchain_openai
+sentence-transformers
+pydantic
+pytest
+PyPDF2
+unstructured[pdf]
